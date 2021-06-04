@@ -1,1 +1,1 @@
-# A Quick demo on Differential Privacy
+# A quick demo on Differential Privacy
