@@ -7,4 +7,6 @@ In this quick Tutorial, we will illustrate some well-known anonymization techniq
 * [PyDP](https://github.com/OpenMined/PyDP), a python wrapper around [Google's Differential Privacy Suite](https://github.com/google/differential-privacy) (simply used as dp).
 * [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/), two packages commonly used together for easily drawing nice and mathematically function-rich diagrams
 
-To run the demo interactively, just hit this --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpallas/DiffPriv-demo/HEAD?filepath=DiffPriv-demo.ipynb)
+To run the demo interactively, just hit the button below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpallas/DiffPriv-demo/HEAD?filepath=DiffPriv-demo.ipynb)
