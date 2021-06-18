@@ -9,4 +9,4 @@ In this quick Tutorial, we will illustrate some well-known anonymization techniq
 
 To run the demo interactively, just hit the button below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpallas/DiffPriv-demo/HEAD?filepath=DiffPriv-demo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fpallas/DiffPriv-demo/HEAD?filepath=DiffPriv_demo.ipynb)
